@@ -1,0 +1,9 @@
+node_modules/
+target/
+data/
+.env
+*.log
+# the React build output is generated into the Java project
+backend/src/main/resources/static/
+.idea/
+.vscode/
