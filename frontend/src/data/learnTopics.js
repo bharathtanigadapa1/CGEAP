@@ -25,18 +25,18 @@ export const learnTopics = {
       "en": "Fix leaking taps and pipes immediately — a single slow drip can waste thousands of litres a year. Turn off the tap while brushing teeth or washing utensils. Reuse water from washing vegetables to water plants. Install simple rainwater harvesting structures on rooftops to recharge groundwater. Water crops early morning or evening to reduce evaporation loss.",
       "te": "లీక్ అవుతున్న కుళాయిలు మరియు పైపులను వెంటనే మరమ్మతు చేయండి — ఒక నెమ్మదైన బొట్టు కూడా ఏడాదికి వేల లీటర్ల నీటిని వృథా చేయగలదు. పళ్ళు తోముకునేటప్పుడు లేదా పాత్రలు కడిగేటప్పుడు కుళాయిని ఆపివేయండి. కూరగాయలు కడిగిన నీటిని మొక్కలకు తిరిగి ఉపయోగించండి. భూగర్భజలాన్ని రీఛార్జ్ చేయడానికి పైకప్పులపై సాధారణ వర్షపు నీటి సేకరణ నిర్మాణాలను ఏర్పాటు చేయండి. ఆవిరి నష్టాన్ని తగ్గించడానికి పంటలకు తెల్లవారుజామున లేదా సాయంత్రం నీరు పెట్టండి."
     },
-    "hero": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?auto=format&fit=crop&w=1200&q=80",
+    "hero": "/images/water_main.jpg",
     "gallery": [
       {
-        "src": "https://images.unsplash.com/photo-1541844053589-346841d0b34c?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/Water1.jpg",
         "alt": "Rainwater harvesting"
       },
       {
-        "src": "https://images.unsplash.com/photo-1500673922987-e212871fec22?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/water2.jpg",
         "alt": "Well water"
       },
       {
-        "src": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/water 3.jpg",
         "alt": "Clean water source"
       }
     ]
@@ -66,18 +66,18 @@ export const learnTopics = {
       "en": "Keep separate bins for wet (kitchen) waste, dry waste and recyclables. Compost vegetable peels, leftover food and garden trimmings into rich manure for plants. Hand over dry recyclables like paper, glass and metal to local collectors instead of burning or dumping them. Avoid burning waste, since it releases harmful smoke into the air. Encourage neighbours and local shops to follow the same three-bin system.",
       "te": "తడి (వంటగది) వ్యర్థాలు, పొడి వ్యర్థాలు మరియు రీసైక్లబుల్స్ కోసం వేర్వేరు డబ్బాలను ఉంచండి. కూరగాయల తొక్కలు, మిగిలిన ఆహారం మరియు తోట కత్తిరింపులను మొక్కలకు గొప్ప ఎరువుగా కంపోస్ట్ చేయండి. కాగితం, గాజు మరియు లోహం వంటి పొడి రీసైక్లబుల్స్‌ను కాల్చడం లేదా పారవేయడం కంటే స్థానిక సేకరణదారులకు అందించండి. వ్యర్థాలను కాల్చడం మానుకోండి, ఎందుకంటే ఇది గాలిలోకి హానికరమైన పొగను విడుదల చేస్తుంది. పొరుగువారు మరియు స్థానిక దుకాణాలు అదే మూడు-డబ్బా వ్యవస్థను అనుసరించేలా ప్రోత్సహించండి."
     },
-    "hero": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=1200&q=80",
+    "hero": "/images/waste_main.jpg",
     "gallery": [
       {
-        "src": "https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/waste1.jpg",
         "alt": "Waste segregation bins"
       },
       {
-        "src": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/waste 2.jpg",
         "alt": "Recycling"
       },
       {
-        "src": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/waste 3.jpg",
         "alt": "Composting"
       }
     ]
@@ -107,18 +107,18 @@ export const learnTopics = {
       "en": "Carry a cloth or jute bag whenever you go shopping. Use a refillable steel or copper bottle instead of buying bottled water. Choose loose vegetables over plastic-wrapped ones where possible. Say no to plastic straws, cutlery and plates at events. Support local shops that use paper or leaf packaging instead of plastic.",
       "te": "మీరు షాపింగ్‌కు వెళ్ళిన ప్రతిసారీ గుడ్డ లేదా జనపనార సంచిని తీసుకెళ్ళండి. బాటిల్ నీరు కొనడానికి బదులుగా రీఫిల్ చేయగల స్టీల్ లేదా రాగి బాటిల్‌ను ఉపయోగించండి. సాధ్యమైనప్పుడు ప్లాస్టిక్‌లో చుట్టిన కూరగాయల కంటే వదులుగా ఉన్నవాటిని ఎంచుకోండి. కార్యక్రమాలలో ప్లాస్టిక్ స్ట్రాలు, కత్తిపీటలు మరియు ప్లేట్లకు నో చెప్పండి. ప్లాస్టిక్‌కు బదులుగా కాగితం లేదా ఆకు ప్యాకేజింగ్‌ను ఉపయోగించే స్థానిక దుకాణాలకు మద్దతు ఇవ్వండి."
     },
-    "hero": "https://images.unsplash.com/photo-1621451537084-482c73073a0f?auto=format&fit=crop&w=1200&q=80",
+    "hero": "/images/plastic_main.jpg",
     "gallery": [
       {
-        "src": "https://images.unsplash.com/photo-1591800502183-9bcb8bcc7a4a?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/plastic 1.jpg",
         "alt": "Reusable cloth bags"
       },
       {
-        "src": "https://images.unsplash.com/photo-1610555356070-d0efb6505f81?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/palstic 2.jpg",
         "alt": "Refillable bottle"
       },
       {
-        "src": "https://images.unsplash.com/photo-1605600659873-d808a13e4d2a?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/palstic 3.jpg",
         "alt": "Plastic-free shopping"
       }
     ]
@@ -148,18 +148,18 @@ export const learnTopics = {
       "en": "Choose native, region-suited saplings that need less water to establish. Plant during the monsoon season for the best survival rate. Water new saplings regularly for the first two years and protect them with a simple fence from grazing animals. Join or organise a community plantation drive on vacant land, roadsides or school grounds. Track and care for the trees you plant — a tree only helps if it survives.",
       "te": "తక్కువ నీరు అవసరమయ్యే స్థానిక, ప్రాంతానికి తగిన మొక్కలను ఎంచుకోండి. ఉత్తమ మనుగడ రేటు కోసం వర్షాకాలంలో నాటండి. మొదటి రెండు సంవత్సరాలు కొత్త మొక్కలకు క్రమం తప్పకుండా నీరు పెట్టండి మరియు మేత జంతువుల నుండి రక్షించడానికి సాధారణ కంచెతో వాటిని రక్షించండి. ఖాళీ భూమి, రోడ్డు పక్కన లేదా పాఠశాల మైదానాల్లో సమాజ నాటడం కార్యక్రమంలో చేరండి లేదా నిర్వహించండి. మీరు నాటిన చెట్లను ట్రాక్ చేసి సంరక్షించండి — చెట్టు జీవించి ఉంటేనే సహాయపడుతుంది."
     },
-    "hero": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80",
+    "hero": "/images/tree_main.jpg",
     "gallery": [
       {
-        "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/tree 1.jpg",
         "alt": "Planting a sapling"
       },
       {
-        "src": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/tree 2.jpg",
         "alt": "Community plantation drive"
       },
       {
-        "src": "https://images.unsplash.com/photo-1478827387698-1527781a4887?auto=format&fit=crop&w=600&q=80",
+        "src": "/images/tree 3.jpg",
         "alt": "Young tree growing"
       }
     ]
