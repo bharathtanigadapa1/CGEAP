@@ -196,8 +196,13 @@ p {
     width: 100%;
     height: 170px;
     object-fit: cover;
+    object-position: top;
     border-radius: 14px;
     margin-bottom: 15px
+}
+
+.learn-img[src*="water"] {
+    object-position: center
 }
 
 .card-link {
@@ -216,17 +221,23 @@ p {
 }
 
 .learn-hero {
-    width: 100%;
-    height: 320px;
-    object-fit: cover;
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: 360px;
+    margin: 0 auto 30px;
+    object-fit: contain;
     border-radius: 20px;
-    margin-bottom: 30px
+    box-shadow: 0 5px 20px #0000001a
 }
 
 .gallery-img {
+    display: block;
     width: 100%;
-    height: 180px;
+    height: auto;
+    aspect-ratio: 3 / 4;
     object-fit: cover;
+    object-position: center 30%;
     border-radius: 14px
 }
 
@@ -878,3 +889,17 @@ nav a.active { text-decoration: underline; font-weight: bold }
 .status-line.rejected { background: #f5e2e0; color: #a94a3f }
 .admin-table td small { color: #718078 }
 .card button, .card .btn { margin-top: 15px }
+
+.learn-hero[src*="waste"] {
+    height: 320px
+}
+
+@media(max-width:650px) {
+    .learn-hero {
+        height: 260px
+    }
+
+    .learn-hero[src*="waste"] {
+        height: 240px
+    }
+}
